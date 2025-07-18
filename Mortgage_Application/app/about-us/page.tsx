@@ -87,7 +87,7 @@ export default function AboutUsPage() {
             About HomeLend
           </h1>
           <p className="text-xl text-green-100 max-w-3xl mx-auto">
-            We're on a mission to make homeownership accessible to everyone through 
+            We are on a mission to make homeownership accessible to everyone through 
             technology, transparency, and exceptional service.
           </p>
         </div>
@@ -100,7 +100,7 @@ export default function AboutUsPage() {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Mission</h2>
               <p className="text-lg text-gray-600 mb-6">
-                At HomeLend, we believe that everyone deserves a fair shot at homeownership. That's why we've 
+                At HomeLend, we believe that everyone deserves a fair shot at homeownership. That&apos;s why we&apos;ve 
                 built a digital-first mortgage experience that eliminates the traditional barriers 
                 and frustrations of getting a home loan.
               </p>
@@ -173,7 +173,7 @@ export default function AboutUsPage() {
                 </div>
                 <h3 className="text-xl font-semibold mb-4">Customer-First</h3>
                 <p className="text-gray-600">
-                  Every decision we make is guided by what's best for our customers 
+                  Every decision we make is guided by what&apos;s best for our customers 
                   and their homeownership dreams.
                 </p>
               </CardContent>
@@ -212,7 +212,7 @@ export default function AboutUsPage() {
       <section className="py-20 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">HomeLend's Journey</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">HomeLend&apos;s Journey</h2>
           </div>
           <div className="space-y-8">
             <div className="flex items-center space-x-8">
