@@ -1,5 +1,5 @@
 "use client";
-
+import { Home } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
@@ -52,7 +52,7 @@ export default function AboutUsPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/" className="text-2xl font-bold text-[#004733] flex items-center">
-                <HomeIcon className="w-8 h-8 mr-2" />
+                <Home className="w-8 h-8 mr-2" />
                 HomeLend
               </Link>
             </div>
